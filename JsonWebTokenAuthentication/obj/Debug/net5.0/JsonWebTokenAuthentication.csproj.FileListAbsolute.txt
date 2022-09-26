@@ -1,0 +1,70 @@
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\appsettings.json
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.exe
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.deps.json
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.runtimeconfig.json
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.runtimeconfig.dev.json
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\ref\JsonWebTokenAuthentication.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.pdb
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.csproj.AssemblyReference.cache
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.AssemblyInfoInputs.cache
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.AssemblyInfo.cs
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\scopedcss\bundle\JsonWebTokenAuthentication.styles.css
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\staticwebassets\JsonWebTokenAuthentication.StaticWebAssets.Manifest.cache
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.csproj.CopyComplete
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\ref\JsonWebTokenAuthentication.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.pdb
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.genruntimeconfig.cache
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shehe\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\appsettings.json
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.exe
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.deps.json
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.runtimeconfig.json
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.runtimeconfig.dev.json
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\JsonWebTokenAuthentication.pdb
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.csproj.AssemblyReference.cache
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.AssemblyInfoInputs.cache
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.AssemblyInfo.cs
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\scopedcss\bundle\JsonWebTokenAuthentication.styles.css
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\staticwebassets\JsonWebTokenAuthentication.StaticWebAssets.Manifest.cache
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.csproj.CopyComplete
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\refint\JsonWebTokenAuthentication.dll
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.pdb
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\JsonWebTokenAuthentication.genruntimeconfig.cache
+C:\Users\Sheheryar Izhar\source\repos\JsonWebTokenAuthentication\JsonWebTokenAuthentication\obj\Debug\net5.0\ref\JsonWebTokenAuthentication.dll
